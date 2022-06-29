@@ -40,7 +40,7 @@ DOM 操作や悪用により XSS 攻撃を許してしまう脆弱性が該当�
 
 **4. 脆弱で古くなったコンポーネント**
 
-古いまたは既知の脆弱性を含む JavaScript ライブラリの検出と更新の欠如が該当します。 [OWASP Top 10: A06-2021 - Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/) ((日本語リンク){https://owasp.org/Top10/ja/A06_2021-Vulnerable_and_Outdated_Components/}) と同様ですが、クライアントサイドライブラリに焦点を当てています。
+古いまたは既知の脆弱性を含む JavaScript ライブラリの検出と更新の欠如が該当します。 [OWASP Top 10: A06-2021 - Vulnerable and Outdated Components](https://owasp.org/Top10/A06_2021-Vulnerable_and_Outdated_Components/) ([日本語リンク](https://owasp.org/Top10/ja/A06_2021-Vulnerable_and_Outdated_Components/)) と同様ですが、クライアントサイドライブラリに焦点を当てています。
 
 **5. サードパーティによるオリジンコントロールの欠如**
 
@@ -56,7 +56,7 @@ DOM 操作や悪用により XSS 攻撃を許してしまう脆弱性が該当�
 
 **8. クライアントサイドのセキュリティログとモニタリングの不備**
 
-各ページがファーストパーティとサードパーティの両方のコードを使用してアセンブルおよび実行される際に、クライアントサイドの変更とデータアクセス、特に失敗とエラーについて、リアルタイムでのモニタリングと検出が不十分であることが該当します。 [OWASP Top 10: A09-2021 - Security Logging and Monitoring Failures](https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/) ((日本語リンク){https://owasp.org/Top10/ja/A09_2021-Security_Logging_and_Monitoring_Failures/}) と同様ですが、クライアントサイドの動作に焦点を当てています。
+各ページがファーストパーティとサードパーティの両方のコードを使用してアセンブルおよび実行される際に、クライアントサイドの変更とデータアクセス、特に失敗とエラーについて、リアルタイムでのモニタリングと検出が不十分であることが該当します。 [OWASP Top 10: A09-2021 - Security Logging and Monitoring Failures](https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/) ([日本語リンク](https://owasp.org/Top10/ja/A09_2021-Security_Logging_and_Monitoring_Failures/)) と同様ですが、クライアントサイドの動作に焦点を当てています。
 
 **9. 標準的なブラウザセキュリティコントロールの不採用**
 
@@ -70,4 +70,3 @@ iframe サンドボックスなどのブラウザに組み込まれている一�
 ## フィードバックの提供
 
 フィードバックは右記の Google Group に参加し、プロジェクトへのフィードバックを投稿するのがもっともよい方法です。また、個人的にフィードバックを行いたい場合には、プロジェクトリーダーに直接電子メールを送ることもできます。
-
