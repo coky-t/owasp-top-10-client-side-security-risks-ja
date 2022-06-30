@@ -1,13 +1,13 @@
 ---
 
 layout: col-sidebar
-title: OWASP Top 10 Client-Side Security Risks
+title: OWASP Top 10 クライアントサイドセキュリティリスク
 site_side: true
 tags: top10
 project: true
 level: 2
 type: documentation
-pitch: The client-side of browser based web applications has different security challenges than [the server-side](https://owasp.org/www-project-top-ten/).
+pitch: ブラウザベースのウェブアプリケーションのクライアントサイドには [サーバーサイド](https://owasp.org/www-project-top-ten/) とは異なるセキュリティ課題があります。
 
 ---
 <!-- rebuild 40 -->
