@@ -7,7 +7,7 @@ This is the unofficial Japanese translation of the [OWASP Top 10 Client-Side Sec
 - Project Site - <https://owasp.org/www-project-top-10-client-side-security-risks/>
 - Project Repository - <https://github.com/OWASP/www-project-top-10-client-side-security-risks>
 
-# OWASP Top 10 クライアントサイドセキュリティリスク 日本語版
+## OWASP Top 10 クライアントサイドセキュリティリスク 日本語版
 
 * [OWASP Top 10 クライアントサイドセキュリティリスク](Document/index.md)
 * [リーダー](Document/leaders.md)
